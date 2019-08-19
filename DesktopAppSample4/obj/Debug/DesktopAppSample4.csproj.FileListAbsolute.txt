@@ -1,0 +1,15 @@
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.csprojAssemblyReference.cache
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.FrmLogin.resources
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.Properties.Resources.resources
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.csproj.GenerateResource.cache
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.csproj.CoreCompileInputs.cache
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\bin\Debug\DesktopAppSample4.exe.config
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\bin\Debug\DesktopAppSample4.exe
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\bin\Debug\DesktopAppSample4.pdb
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\bin\Debug\DesktopAppSample3.dll
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\bin\Debug\DesktopAppSample3.pdb
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.FrmMDIMain.resources
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.csproj.CopyComplete
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.exe
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\obj\Debug\DesktopAppSample4.pdb
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample4\bin\Debug\DbConnection.config
