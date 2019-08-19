@@ -1,0 +1,6 @@
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample2\bin\Debug\DesktopAppSample2.dll
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample2\bin\Debug\DesktopAppSample2.pdb
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample2\obj\Debug\DesktopAppSample2.csprojAssemblyReference.cache
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample2\obj\Debug\DesktopAppSample2.csproj.CoreCompileInputs.cache
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample2\obj\Debug\DesktopAppSample2.dll
+C:\Users\PRAVEENA\source\repos\DesktopAppSamples\DesktopAppSample2\obj\Debug\DesktopAppSample2.pdb
